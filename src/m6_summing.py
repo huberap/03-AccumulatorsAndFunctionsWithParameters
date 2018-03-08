@@ -93,7 +93,7 @@ def run_test_sum_square_roots():
     print('actual is', sum_square_roots(1))
 
     print('TEST 3')
-    print('expected is x')
+    print('expected is 11.8')
     print('actual is', sum_square_roots(5))
 
 def sum_square_roots(n):
